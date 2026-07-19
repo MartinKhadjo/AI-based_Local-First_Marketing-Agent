@@ -2,6 +2,7 @@
 
 ## 2026-07-19
 
+- Replaced the README demo thumbnail with the YouTube-style `maxresdefault.jpg` image.
 - Simplified the public README presentation to match the existing portfolio-repo style: one demo section, one MK-logo demo thumbnail, and one product preview screenshot.
 - Removed the multi-screenshot README grid from the public presentation.
 - Created public portfolio documentation package for the AI-based Local-First Marketing Agent.

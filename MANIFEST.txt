@@ -21,8 +21,8 @@ docs/github-repository-description.txt
 docs/demo/demo_video.md
 docs/source-notes/diagram-provenance.md
 docs/assets/README.md
-docs/assets/demo-video-thumbnail.jpg
 Marketing_Agent_Screenshot.png
+maxresdefault.jpg
 
 Excluded:
 Production source code
