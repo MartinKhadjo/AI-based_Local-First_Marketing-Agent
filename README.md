@@ -17,7 +17,7 @@ This repository presents the system as a professional software engineering portf
 
 [Watch the public-safe Marketing Agent walkthrough on YouTube](https://youtu.be/0TN4MeALWmg?si=rEkr6Z4LcSghJnsq)
 
-![MK Tech Creative demo video thumbnail](docs/assets/demo-video-thumbnail.jpg)
+[![MK Tech Creative demo video thumbnail](docs/assets/demo-video-thumbnail.jpg)](https://youtu.be/0TN4MeALWmg?si=rEkr6Z4LcSghJnsq)
 
 ## Product preview
 
