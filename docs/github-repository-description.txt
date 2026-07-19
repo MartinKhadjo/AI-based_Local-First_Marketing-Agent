@@ -1,0 +1,1 @@
+Local-first AI marketing agent platform for end-to-end campaign orchestration, content fundus processing, product-growth analysis, MiroFish simulation, human-in-the-loop approvals, governed multi-platform publishing, analytics feedback, and MCP-based control by external LLM agents.

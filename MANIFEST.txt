@@ -1,0 +1,39 @@
+AI-based Local-First Marketing Agent - public portfolio repository manifest
+
+Repository purpose:
+Documentation-only showcase for a proprietary local-first AI marketing operating system.
+
+Included:
+README.md
+NOTICE.md
+LICENSE.md
+CHANGELOG.md
+docs/architecture.md
+docs/features.md
+docs/user-workflows.md
+docs/campaign-autopilot-and-mcp.md
+docs/simulation-and-governance.md
+docs/security-and-privacy.md
+docs/operations-and-quality.md
+docs/portfolio-evidence.md
+docs/deutsche-kurzbeschreibung.md
+docs/github-repository-description.txt
+docs/demo/demo_video.md
+docs/source-notes/diagram-provenance.md
+docs/assets/README.md
+docs/assets/*.png
+
+Excluded:
+Production source code
+Private prompts
+API keys and OAuth tokens
+.env files
+Model weights
+Deployment binaries
+Customer or unpublished campaign data
+Internal implementation-level schemas and connector code
+
+Owner:
+Martin Khadjavian
+https://martinkhadjavian.com/
+
