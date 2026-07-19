@@ -21,7 +21,8 @@ docs/github-repository-description.txt
 docs/demo/demo_video.md
 docs/source-notes/diagram-provenance.md
 docs/assets/README.md
-docs/assets/*.png
+docs/assets/demo-video-thumbnail.jpg
+Marketing_Agent_Screenshot.png
 
 Excluded:
 Production source code
@@ -36,4 +37,3 @@ Internal implementation-level schemas and connector code
 Owner:
 Martin Khadjavian
 https://martinkhadjavian.com/
-

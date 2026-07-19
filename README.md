@@ -11,11 +11,17 @@ This repository presents the system as a professional software engineering portf
 > Demo video: [AI-based Local-First Marketing Agent on YouTube](https://youtu.be/0TN4MeALWmg?si=rEkr6Z4LcSghJnsq)  
 > Contact: [martinkhadjavian.com](https://martinkhadjavian.com/)
 
-[![AI-based Local-First Marketing Agent demo contact sheet](docs/assets/marketing-agent-demo-contact-sheet.png)](https://youtu.be/0TN4MeALWmg?si=rEkr6Z4LcSghJnsq)
-
-*Click to watch the public demo: agent chat, campaign autopilot, credentials, product growth, campaign creation, approval, media, pipeline, simulation, Paperclip, workspaces, and MCP-ready orchestration.*
-
 ---
+
+## Demo
+
+[Watch the public-safe Marketing Agent walkthrough on YouTube](https://youtu.be/0TN4MeALWmg?si=rEkr6Z4LcSghJnsq)
+
+![MK Tech Creative demo video thumbnail](docs/assets/demo-video-thumbnail.jpg)
+
+## Product preview
+
+![AI-based Local-First Marketing Agent product preview](Marketing_Agent_Screenshot.png)
 
 ## Quick links
 
@@ -98,21 +104,6 @@ flowchart TB
 
 Deep dives: [Architecture](docs/architecture.md), [Autopilot and MCP](docs/campaign-autopilot-and-mcp.md), [Simulation and governance](docs/simulation-and-governance.md), [Security and privacy](docs/security-and-privacy.md).
 
-## Demo screenshots
-
-| | |
-|---|---|
-| ![Agent Chat command center](docs/assets/agent-chat-command-center.png) | ![Content fundus campaign orchestration](docs/assets/autopilot-campaign-orchestration.png) |
-| *Agent Chat - natural-language campaign command center* | *Autopilot - content fundus orchestration and package creation* |
-| ![Platform access and website stores](docs/assets/platform-credentials.png) | ![Hero products and landing pages](docs/assets/product-growth-hero-products.png) |
-| *Credentials - platform profiles, OAuth, FTP, and connector feedback* | *Product Growth - hero products and landing-page strategy* |
-| ![Approval queue](docs/assets/approval-post-package-queue.png) | ![Campaign preflight lab](docs/assets/simulation-preflight-lab.png) |
-| *Approval - human review before scheduling or publishing* | *Simulation - local and optional MiroFish campaign preflight* |
-| ![Workspace asset library](docs/assets/media-asset-library.png) | ![Marketing processing pipeline](docs/assets/pipeline-processing-readiness.png) |
-| *Media - reusable workspace asset library* | *Pipeline - readiness checks, scheduler tick, and preflight controls* |
-| ![Paperclip agent control plane](docs/assets/paperclip-agent-control-plane.png) | ![Workspace details](docs/assets/workspace-governance.png) |
-| *Paperclip - optional agent-company control plane* | *Workspace - brand boundary, policies, and account assignment context* |
-
 ## Repository structure
 
 ```text
@@ -122,6 +113,7 @@ Deep dives: [Architecture](docs/architecture.md), [Autopilot and MCP](docs/campa
 |-- LICENSE.md
 |-- NOTICE.md
 |-- MANIFEST.txt
+|-- Marketing_Agent_Screenshot.png
 `-- docs/
     |-- architecture.md
     |-- features.md
@@ -139,17 +131,7 @@ Deep dives: [Architecture](docs/architecture.md), [Autopilot and MCP](docs/campa
     |   `-- diagram-provenance.md
     `-- assets/
         |-- README.md
-        |-- marketing-agent-demo-contact-sheet.png
-        |-- agent-chat-command-center.png
-        |-- autopilot-campaign-orchestration.png
-        |-- platform-credentials.png
-        |-- product-growth-hero-products.png
-        |-- approval-post-package-queue.png
-        |-- media-asset-library.png
-        |-- pipeline-processing-readiness.png
-        |-- simulation-preflight-lab.png
-        |-- paperclip-agent-control-plane.png
-        `-- workspace-governance.png
+        `-- demo-video-thumbnail.jpg
 ```
 
 ## Engineering challenges solved
